@@ -1,0 +1,7 @@
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.csproj.AssemblyReference.cache
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.AssemblyInfoInputs.cache
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.AssemblyInfo.cs
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Camil\source\repos\AMSPM-BackEnd\AMSPM-BackEnd\obj\Debug\net8.0\AMSPM-BackEnd.MvcApplicationPartsAssemblyInfo.cache
